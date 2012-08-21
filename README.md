@@ -1,4 +1,4 @@
 erly_server
 ===========
 
-Simple erlang TCP-server
+Simple erlang TCP echo-server
